@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/KalpnathRai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=650&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AI+%26+Agentic+DevSecOps+%E2%80%A2+MCP+%26+RAG;Terraform+%E2%80%A2+Azure+%26+AWS+%E2%80%A2+Kubernetes;Shift-Left+Security+%E2%80%A2+CI%2FCD+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=650&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AI+%26+Agentic+Cloud+Security+%E2%80%A2+MCP+%26+RAG;Terraform+%E2%80%A2+Azure+%26+AWS+%E2%80%A2+Kubernetes;Platform+Engineering+%E2%80%A2+CI%2FCD+Automation" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -37,7 +37,7 @@
 
 I am a **Cloud & DevSecOps Engineer** with **5+ years of hands-on experience** in multi-cloud infrastructure engineering, automation, and platform security. My work focuses on designing and implementing production-ready, repeatable, and secure cloud environments across **Microsoft Azure** and **AWS**.
 
-I specialize in **Infrastructure as Code (Terraform)**, **Shift-Left Security**, **CI/CD pipeline automation (Azure DevOps & GitHub Actions)**, **Kubernetes (AKS & EKS)**, and modern **AI-assisted DevOps workflows (Model Context Protocol - MCP, AI Agents, and Secure RAG infrastructure)**.
+I specialize in **Infrastructure as Code (Terraform)**, **Platform Engineering**, **CI/CD pipeline automation (Azure DevOps & GitHub Actions)**, **Kubernetes (AKS & EKS)**, and modern **AI & Agentic Cloud Security (Model Context Protocol - MCP, AI Agents, and Secure RAG infrastructure)**.
 
 My objective is to build clean, observable, and cost-efficient cloud architectures where security, compliance, and reliability are automated from commit to production.
 
@@ -65,7 +65,7 @@ Every architecture, pipeline, and infrastructure module I build adheres to these
 * **DevSecOps & Supply Chain Security:** Integrating automated SAST, SCA, container vulnerability scanning, and policy-as-code using GitLeaks, Checkov, Trivy, SonarQube, and Snyk.
 * **Containers & Kubernetes:** Docker image optimization, container registry security (ACR / ECR), and enterprise Kubernetes workload deployment and management on AKS and EKS using Helm.
 * **Reliability, Monitoring & FinOps:** Proactive observability using Azure Monitor, Log Analytics, AWS CloudWatch, Prometheus, and Grafana; cloud cost optimization through rightsizing, waste elimination, and automated scheduling.
-* **AI-Assisted DevOps & Agentic Workflows:** Implementing Model Context Protocol (MCP) servers, leveraging GitHub Copilot and AI agents for automated PR remediation, and provisioning secure cloud infrastructure for private RAG platforms.
+* **AI & Agentic Cloud Security:** Implementing Model Context Protocol (MCP) servers, leveraging GitHub Copilot and AI agents for automated PR remediation, and provisioning secure cloud infrastructure for private RAG platforms.
 
 ---
 
@@ -76,12 +76,12 @@ Every architecture, pipeline, and infrastructure module I build adheres to these
 | **Cloud Platforms** | Microsoft Azure, Amazon Web Services (AWS), Hybrid Cloud |
 | **Cloud Networking** | Hub-and-Spoke VNets, AWS VPC, Subnets, NSGs, Security Groups, Azure Firewall, AWS WAF, Private Endpoints, PrivateLink, Azure Bastion |
 | **Infrastructure as Code** | Terraform, Terragrunt, Azure Bicep, ARM Templates, Ansible, Packer |
-| **CI/CD & Automation** | Azure DevOps Pipelines, GitHub Actions, GitLab CI, ArgoCD, Helm |
+| **CI/CD & Platform Engineering** | Azure DevOps Pipelines, GitHub Actions, GitLab CI, ArgoCD, Helm |
 | **Containers & Orchestration** | Docker, Kubernetes (AKS & EKS), Azure Container Registry (ACR), Amazon ECR, Ingress Controllers |
-| **DevSecOps & Security** | GitLeaks, Checkov, Trivy, SonarQube, Snyk, TFLint, Azure Key Vault, AWS KMS, Policy-as-Code |
+| **Cloud Security & DevSecOps** | GitLeaks, Checkov, Trivy, SonarQube, Snyk, TFLint, Azure Key Vault, AWS KMS, Policy-as-Code |
 | **Identity & Access** | Microsoft Entra ID (Azure AD), AWS IAM, RBAC, Privileged Identity Management (PIM), Managed Identities, IAM Roles |
 | **Monitoring & SRE** | Azure Monitor, AWS CloudWatch, Log Analytics Workspace, Prometheus, Grafana, Infracost, Alert Action Groups |
-| **AI & Agentic DevOps** | Model Context Protocol (MCP), GitHub Copilot, AI Ops Agents, Secure RAG Infrastructure, Harness AI |
+| **AI & Agentic Cloud Security** | Model Context Protocol (MCP), GitHub Copilot, AI Ops Agents, Secure RAG Infrastructure, Harness AI |
 | **Scripting & OS** | Bash, PowerShell Core, Python 3, Linux (Ubuntu, RHEL) |
 
 ---
