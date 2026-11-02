@@ -5,11 +5,11 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/KalpnathRai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=720&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);Cloud+(AWS+%E2%80%A2+Azure+%E2%80%A2+GCP);DevOps+%26+CI%2FCD+(Azure+DevOps+%E2%80%A2+GitHub+Actions+%E2%80%A2+Jenkins);Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Helm;Cloud+Security+%E2%80%A2+Platform+Engineering;AI+%26+Agentic+Cloud+Security+%E2%80%A2+MCP+%26+RAG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=680&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);Cloud+(AWS+%E2%80%A2+Azure+%E2%80%A2+GCP);CI%2FCD+(ADO+%E2%80%A2+GitHub+Actions+%E2%80%A2+Jenkins);Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Helm;Cloud+Security+%E2%80%A2+Platform+Engineering;AI+%26+Agentic+Cloud+Security+%E2%80%A2+MCP+%26+RAG" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Cloud &amp; DevSecOps Engineer &bull; Cloud (AWS &bull; Azure &bull; GCP) &bull; DevOps (Azure DevOps &bull; GitHub Actions &bull; Jenkins)</strong><br/>
+    <strong>Cloud &amp; DevSecOps Engineer &bull; Cloud (AWS &bull; Azure &bull; GCP) &bull; CI/CD (ADO &bull; GitHub Actions &bull; Jenkins)</strong><br/>
     <em>Secure infrastructure. Repeatable delivery. Observable systems.</em>
   </p>
 
@@ -124,7 +124,7 @@ Every architecture, pipeline, and infrastructure module I build adheres to these
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kalp-nath-rai-39848820" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kalprai32@gmail.com">
     <img src="https://img.shields.io/badge/Email-Kalp_Nath_Rai-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
