@@ -37,7 +37,7 @@
 
 I am a **Cloud & DevSecOps Engineer** with **5+ years of hands-on experience** in multi-cloud infrastructure engineering, automation, and platform security. My work focuses on designing and implementing production-ready, repeatable, and secure cloud environments across **AWS**, **Microsoft Azure**, and **GCP**.
 
-I specialize in **Infrastructure as Code (Terraform)**, **Platform Engineering**, **CI/CD pipeline automation (Azure DevOps & GitHub Actions)**, **Kubernetes (AKS & EKS)**, and modern **AI & Agentic Cloud Security (Model Context Protocol - MCP, AI Agents, and Secure RAG infrastructure)**.
+I specialize in **Infrastructure as Code (Terraform)**, **Platform Engineering**, **CI/CD pipeline automation (Azure DevOps, GitHub Actions & Jenkins)**, **Kubernetes (AKS & EKS)**, and modern **AI & Agentic Cloud Security (Model Context Protocol - MCP, AI Agents, and Secure RAG infrastructure)**.
 
 My objective is to build clean, observable, and cost-efficient cloud architectures where security, compliance, and reliability are automated from commit to production.
 
@@ -73,10 +73,10 @@ Every architecture, pipeline, and infrastructure module I build adheres to these
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Cloud Platforms** | Microsoft Azure, Amazon Web Services (AWS), Hybrid Cloud |
+| **Cloud Platforms** | Amazon Web Services (AWS), Microsoft Azure, Google Cloud (GCP), Hybrid Cloud |
 | **Cloud Networking** | Hub-and-Spoke VNets, AWS VPC, Subnets, NSGs, Security Groups, Azure Firewall, AWS WAF, Private Endpoints, PrivateLink, Azure Bastion |
 | **Infrastructure as Code** | Terraform, Terragrunt, Azure Bicep, ARM Templates, Ansible, Packer |
-| **CI/CD & Platform Engineering** | Azure DevOps Pipelines, GitHub Actions, GitLab CI, ArgoCD, Helm |
+| **CI/CD & Platform Engineering** | Azure DevOps (ADO), GitHub Actions, Jenkins, GitLab CI, ArgoCD, Helm |
 | **Containers & Orchestration** | Docker, Kubernetes (AKS & EKS), Azure Container Registry (ACR), Amazon ECR, Ingress Controllers |
 | **Cloud Security & DevSecOps** | GitLeaks, Checkov, Trivy, SonarQube, Snyk, TFLint, Azure Key Vault, AWS KMS, Policy-as-Code |
 | **Identity & Access** | Microsoft Entra ID (Azure AD), AWS IAM, RBAC, Privileged Identity Management (PIM), Managed Identities, IAM Roles |
