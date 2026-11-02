@@ -35,7 +35,7 @@
 
 ## 👏 About
 
-I am a **Cloud & DevSecOps Engineer** with **5+ years of hands-on experience** in multi-cloud infrastructure engineering, automation, and platform security. My work focuses on designing and implementing production-ready, repeatable, and secure cloud environments across **Microsoft Azure** and **AWS**.
+I am a **Cloud & DevSecOps Engineer** with **5+ years of hands-on experience** in multi-cloud infrastructure engineering, automation, and platform security. My work focuses on designing and implementing production-ready, repeatable, and secure cloud environments across **AWS**, **Microsoft Azure**, and **GCP**.
 
 I specialize in **Infrastructure as Code (Terraform)**, **Platform Engineering**, **CI/CD pipeline automation (Azure DevOps & GitHub Actions)**, **Kubernetes (AKS & EKS)**, and modern **AI & Agentic Cloud Security (Model Context Protocol - MCP, AI Agents, and Secure RAG infrastructure)**.
 
@@ -90,7 +90,7 @@ Every architecture, pipeline, and infrastructure module I build adheres to these
 
 * **Multi-Cloud IaC Provisioning:** Built and managed production-grade cloud infrastructure on Azure and AWS using modular, parameter-driven **Terraform** configurations with remote state locking.
 * **Automated CI/CD Delivery:** Designed and maintained scalable **Azure DevOps & GitHub Actions YAML pipelines** automating build, security testing, and infrastructure deployment workflows.
-* **Shift-Left Security Implementation:** Integrated security gates into developer pull requests using **GitLeaks** for secret prevention, **Checkov** for IaC compliance, and **Trivy** for container vulnerability scans.
+* **Cloud Security Implementation:** Integrated security gates into developer pull requests using **GitLeaks** for secret prevention, **Checkov** for IaC compliance, and **Trivy** for container vulnerability scans.
 * **Secure Enterprise Networking:** Architected **Hub-and-Spoke network topologies** with centralized inspection via **Azure Firewall**, forced tunneling (`0.0.0.0/0`), and private connectivity for PaaS services using **Private Endpoints & PrivateLink**.
 * **Kubernetes Cluster Operations:** Containerized applications using **Docker** and managed production deployments on **Azure Kubernetes Service (AKS)** and **Amazon EKS** using **Helm charts** and network policies.
 * **Identity Governance & Access Control:** Enforced strict least-privilege security using **Microsoft Entra ID**, **AWS IAM**, and **Privileged Identity Management (PIM)** with Just-In-Time role activation.
