@@ -5,11 +5,11 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/KalpnathRai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=650&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AI+%26+Agentic+Cloud+Security+%E2%80%A2+MCP+%26+RAG;Terraform+%E2%80%A2+Azure+%26+AWS+%E2%80%A2+Kubernetes;Platform+Engineering+%E2%80%A2+CI%2FCD+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=700&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AWS+%2F+Azure+%2F+GCP+%E2%80%A2+CI%2FCD;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub;Cloud+Security+%E2%80%A2+Platform+Engineering;AI+%26+Agentic+Cloud+Security+%E2%80%A2+MCP+%26+RAG" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Cloud &amp; DevSecOps Engineer &bull; Azure &amp; AWS &bull; Terraform &bull; CI/CD &bull; AI &amp; MCP</strong><br/>
+    <strong>Cloud &amp; DevSecOps Engineer &bull; AWS &bull; Azure &bull; GCP &bull; Terraform &bull; CI/CD &bull; Cloud Security</strong><br/>
     <em>Secure infrastructure. Repeatable delivery. Observable systems.</em>
   </p>
 
