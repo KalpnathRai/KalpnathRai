@@ -1,12 +1,39 @@
-# Kalp Nath Rai
+<div align="center">
 
-**Cloud & DevSecOps Engineer** &bull; **5+ Years Experience**  
-📍 **Location:** India  
-🔗 [LinkedIn](https://www.linkedin.com/in/kalp-nath-rai-39848820) &bull; [Email](mailto:kalprai32@gmail.com) &bull; [GitHub](https://github.com/KalpnathRai)
+  <!-- Waving Banner with Name (Dark Slate to Electric Cyan Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e293b,0f172a,0284c7,38bdf8,00f2fe&height=220&section=header&text=Kalp%20Nath%20Rai&fontSize=48&fontAlignY=46&fontColor=ffffff" width="100%" alt="Kalp Nath Rai" />
+
+  <!-- Animated Typing Headline -->
+  <a href="https://github.com/KalpnathRai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AI+%26+Agentic+DevSecOps+%E2%80%A2+MCP+%26+RAG;Terraform+%E2%80%A2+Azure+%26+AWS+%E2%80%A2+Kubernetes;Shift-Left+Security+%E2%80%A2+CI%2FCD+Automation" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <strong>Cloud &amp; DevSecOps Engineer &bull; Azure &amp; AWS &bull; Terraform &bull; CI/CD &bull; AI &amp; MCP</strong><br/>
+    <em>Secure infrastructure. Repeatable delivery. Observable systems.</em>
+  </p>
+
+  <!-- Connect Badges (Amirul Style) -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kalp-nath-rai-39848820" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/KalpnathRai?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Location-India-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    </a>
+    <a href="mailto:kalprai32@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-## 👤 About
+## 👏 About
 
 I am a **Cloud & DevSecOps Engineer** with **5+ years of hands-on experience** in multi-cloud infrastructure engineering, automation, and platform security. My work focuses on designing and implementing production-ready, repeatable, and secure cloud environments across **Microsoft Azure** and **AWS**.
 
