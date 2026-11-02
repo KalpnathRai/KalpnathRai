@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Waving Banner with Name (Dark Slate to Electric Cyan Gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e293b,0f172a,0284c7,38bdf8,00f2fe&height=220&section=header&text=Kalp%20Nath%20Rai&fontSize=48&fontAlignY=46&fontColor=ffffff" width="100%" alt="Kalp Nath Rai" />
+  <!-- Waving Banner with Name (Executive Dark Slate to Ocean Blue & Electric Cyan) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0052cc,100:00c6ff&height=220&section=header&text=Kalp%20Nath%20Rai&fontSize=48&fontAlignY=46&fontColor=ffffff" width="100%" alt="Kalp Nath Rai" />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/KalpnathRai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AI+%26+Agentic+DevSecOps+%E2%80%A2+MCP+%26+RAG;Terraform+%E2%80%A2+Azure+%26+AWS+%E2%80%A2+Kubernetes;Shift-Left+Security+%E2%80%A2+CI%2FCD+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0052CC&center=true&vCenter=true&width=650&lines=Cloud+%26+DevSecOps+Engineer+(5%2B+Yrs+Exp);AI+%26+Agentic+DevSecOps+%E2%80%A2+MCP+%26+RAG;Terraform+%E2%80%A2+Azure+%26+AWS+%E2%80%A2+Kubernetes;Shift-Left+Security+%E2%80%A2+CI%2FCD+Automation" alt="Typing SVG" />
   </a>
 
   <p align="center">
