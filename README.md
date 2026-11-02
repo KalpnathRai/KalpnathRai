@@ -57,6 +57,35 @@ Every architecture, pipeline, and infrastructure module I build adheres to these
 
 ---
 
+## 🧭 Portfolio Architecture
+
+```mermaid
+flowchart TB
+A[Engineering Portfolio] --> B[Multi-Cloud Platform Engineering]
+A --> C[Infrastructure as Code]
+A --> D[Secure CI/CD]
+A --> E[Containers]
+A --> F[SRE & Observability]
+A --> G[AI & Agentic Cloud Security]
+
+B --> H["AWS · Azure · GCP · Networking · IAM"]
+C --> I["Terraform · Modules · Validation"]
+D --> J["ADO · GitHub Actions · Jenkins · Gates"]
+E --> K["Docker · AKS · EKS · Helm"]
+F --> L["Metrics · Dashboards · Alerts · Runbooks"]
+G --> M["Model Context Protocol · RAG · AI Agents"]
+```
+
+---
+
+## 🧰 Technology Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,githubactions,jenkins,git,linux,powershell,python&perline=6" alt="Technology Stack" />
+</div>
+
+---
+
 ## 🎯 Core Focus Areas
 
 * **Cloud Platforms & Networking:** Multi-cloud architecture across Microsoft Azure and Amazon Web Services (AWS), Hub-and-Spoke topologies, VNets/VPCs, Subnets, NSGs, Security Groups, Azure Firewall, AWS WAF, and Private Endpoints.
